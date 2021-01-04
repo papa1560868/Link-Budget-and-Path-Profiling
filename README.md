@@ -62,3 +62,13 @@ The system will then save the data on the same file location folder where the py
 ## Excel File Preview
 Please take note that the generated excel type is "Microsoft Excel Comma Separated Values File(.csv)" and we highly suggest to change it to "Microsoft Excel Worksheet(.xlxs)" to save any equation you might want to add to the file. 
 ![ExcelPreview](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/ExcelPreview.PNG)
+
+
+
+# Disclaimer
+The developer is not liable to any false information you might encounter by using the python script.
+
+
+# Acknowlodgement 
+The developers, John Vince Papa, Rica Joy Serquiña and Kevin Banila wants to acknowledge **Innotech Engineering Services PH** for sponsoring the API for this project.
+Learn more @ [Innotech Philippines!](http://www.innotechphils.com/)
