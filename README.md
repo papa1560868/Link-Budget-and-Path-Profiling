@@ -30,5 +30,8 @@ Learn more on how to get @: https://developers.google.com/maps/documentation/ele
 6. **No. of datapoints** - This sets how many samples the system is going to get, rule of thumb the higher the sample rate the better the resolution is.
 7. **Frequency (GHz)** - Operational frequency of the transmitting and receiving signal.
 #### Link Budget
-8. **TX Output (dBm)** - 
-9. **TX Waveg
+8. **TX Output (dBm)** - Transmitters maximum output power.
+9. **TX Waveguide Loss (dBm)** - Transmitters physical wire waveguide loss.
+10. **TX Antenna Gain (dBi)** - Transmitters rated gain.
+11. **RX Waveguide Loss (dBm)** - Receivers physical wire waveguide loss.
+12. **TX Antenna Gain (dBi)** - Receivers rated gain.
