@@ -56,3 +56,4 @@ The user can save the photo as well at .png format.
 # Generared Excel File
 The system will then save the data on the same file location folder where the python script is executed, the filename of the excel file is in this format:
 **TX_Latitude-TX_Longitude.csv**
+![ExcelFilename](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/ExcelFilename.PNG)
