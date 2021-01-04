@@ -50,3 +50,4 @@ The Python code has the capability of creating the *Elevation and Earth Curvatur
 
 ## Example of generated graph
 ![Interface](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/ExampleGraph.PNG)
+The user can saved the photo as well at .png format.
