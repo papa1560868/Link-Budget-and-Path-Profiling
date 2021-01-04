@@ -50,4 +50,9 @@ The Python code has the capability of creating the *Elevation and Earth Curvatur
 
 ## Example of generated graph
 ![Interface](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/ExampleGraph.PNG)
-The user can saved the photo as well at .png format.
+The user can save the photo as well at .png format.
+
+
+# Generared Excel File
+The system will then save the data on the same file location folder where the python script is executed, the filename of the excel file is in this format:
+**TX_Latitude-TX_Longitude.csv**
