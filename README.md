@@ -16,7 +16,7 @@ In order for the code to function properly, the lists of libraries must fully in
 10. haversine
 
 Aside from these 10 library dependencies, the user must PROVIDE a Google Cloud Platform's Elevation API.
-Learn more on how to get @: [Goodle Elevation API!](https://developers.google.com/maps/documentation/elevation/start)
+Learn more on @: [Goodle Elevation API](https://developers.google.com/maps/documentation/elevation/start)
 
 ![Interface](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/Interface.PNG)
 
