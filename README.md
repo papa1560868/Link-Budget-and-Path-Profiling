@@ -16,7 +16,7 @@ In order for the code to function properly, the lists of libraries must fully in
 10. haversine
 
 Aside from these 10 library dependencies, the user must PROVIDE a Google Cloud Platform's Elevation API.
-Learn more on @: [Goodle Elevation API](https://developers.google.com/maps/documentation/elevation/start)
+Learn more on @: [Google Elevation API](https://developers.google.com/maps/documentation/elevation/start)
 
 ![Interface](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/Interface.PNG)
 
@@ -53,7 +53,7 @@ The Python code has the capability of creating the *Elevation and Earth Curvatur
 The user can save the photo as well at .png format.
 
 
-# Generared Excel File
+# Generated Excel File
 The system will then save the data on the same file location folder where the python script is executed, the filename of the excel file is in this format:
 **TX_Latitude-TX_Longitude.csv**
 ![ExcelFilename](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/ExcelFilename.PNG)
