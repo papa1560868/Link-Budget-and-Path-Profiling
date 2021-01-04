@@ -44,7 +44,8 @@ Learn more on how to get @: https://developers.google.com/maps/documentation/ele
 
 Here's the example of valid input datas.
 
-The Python code has the capability of creating the Elevation and Earth Curvature, including the Freznel Zone and Line of Sight.
+The Python code has the capability of creating the *Elevation and Earth Curvature*, including the *Freznel Zone* and *Line of Sight graph*.
 
 
 ## Example of generated graph
+![Interface](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/ExampleGraph.PNG)
