@@ -17,4 +17,6 @@ In order for the code to function properly, the lists of libraries must fully in
 Aside from these 10 library dependencies, the user must PROVIDE a Google Cloud Platform's Elevation API.
 Learn more on how to get @: https://developers.google.com/maps/documentation/elevation/start
 
-![GitHub Logo](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/Interface.PNG)
+![Interface](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/Interface.PNG)
+
+## How to use the python script:
