@@ -20,3 +20,4 @@ Learn more on how to get @: https://developers.google.com/maps/documentation/ele
 ![Interface](https://github.com/papa1560868/Link-Budget-and-Path-Profiling/blob/main/image/Interface.PNG)
 
 ## How to use the python script:
+**API KEY** - This is where the user needed to place the generated API Elevation from GCP.
