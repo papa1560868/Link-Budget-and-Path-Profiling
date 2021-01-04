@@ -35,3 +35,8 @@ Learn more on how to get @: https://developers.google.com/maps/documentation/ele
 10. **TX Antenna Gain (dBi)** - Transmitters rated gain.
 11. **RX Waveguide Loss (dBm)** - Receivers physical wire waveguide loss.
 12. **TX Antenna Gain (dBi)** - Receivers rated gain.
+
+*Note: These data are provided by the user, for link budget we highly suggest tinkering with Andrews Catalog*
+
+
+# Example
