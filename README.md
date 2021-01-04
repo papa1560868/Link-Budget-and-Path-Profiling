@@ -22,13 +22,13 @@ Learn more on how to get @: https://developers.google.com/maps/documentation/ele
 
 ## How to use the python script:
 ### Path Profiling
-**API KEY** - This is where the user needed to place the generated API Elevation from GCP.
-**TX Latitude** - Transmitters Latitude, must be in Decimal Degrees (DD) and *not* in Degrees Minutes and Seconds (DMS).
-**TX Longitude** - Transmitters Longitude, must be in Decimal Degrees (DD) and *not* in Degrees Minutes and Seconds (DMS).
-**RX Latitude** - Receivers Latitude, must be in Decimal Degrees (DD) and *not* in Degrees Minutes and Seconds (DMS).
-**RX Longitude** - Receivers Longitude, must be in Decimal Degrees (DD) and *not* in Degrees Minutes and Seconds (DMS).
-**No. of datapoints** - This sets how many samples the system is going to get, rule of thumb the higher the sample rate the better the resolution is.
-**Frequency (GHz)** - Operational frequency of the transmitting and receiving signal.
+1. **API KEY** - This is where the user needed to place the generated API Elevation from GCP.
+2. **TX Latitude** - Transmitters Latitude, must be in Decimal Degrees (DD) and *not* in Degrees Minutes and Seconds (DMS).
+3. **TX Longitude** - Transmitters Longitude, must be in Decimal Degrees (DD) and *not* in Degrees Minutes and Seconds (DMS).
+4. **RX Latitude** - Receivers Latitude, must be in Decimal Degrees (DD) and *not* in Degrees Minutes and Seconds (DMS).
+5. **RX Longitude** - Receivers Longitude, must be in Decimal Degrees (DD) and *not* in Degrees Minutes and Seconds (DMS).
+6. **No. of datapoints** - This sets how many samples the system is going to get, rule of thumb the higher the sample rate the better the resolution is.
+7. **Frequency (GHz)** - Operational frequency of the transmitting and receiving signal.
 #### Link Budget
-**TX Output (dBm)** - 
-**TX Waveg
+8. **TX Output (dBm)** - 
+9. **TX Waveg
